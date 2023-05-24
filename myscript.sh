@@ -20,8 +20,3 @@ function check_status {
   fi
 }
 
-
-while true; do
-  check_status
-  sleep 30
-done
